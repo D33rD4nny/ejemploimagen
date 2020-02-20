@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mandado</string>
+    <string name="Mainet1">Articulo</string>
+    <string name="Mainet2">Descripcion</string>
+    <string name="Mainet3">Cantidad</string>
+    <string name="Mainet4">Imagen</string>
+    <string name="Mainet5">KG/GR</string>
+    <string name="Mainbtn1">Agregar</string>
+</resources>
